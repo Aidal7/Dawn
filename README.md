@@ -2,7 +2,7 @@
 Dawn Validator BOT
 
 Download Extension Here : [Dawn Validator](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
-Use Code : 02lt4r
+Use Code : `pghab5ry`
 
 ## Fitur
 
